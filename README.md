@@ -100,4 +100,3 @@ End-to-end Machine Learning pipeline development
 Real-time prediction system design
 IoT data simulation and analysis
 Model deployment and persistence
-
